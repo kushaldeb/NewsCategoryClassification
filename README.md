@@ -1,4 +1,4 @@
-# NewsCategoryClassification
+# News Category Classification
 News Category Classification - Identify the type of news based on headlines and short descriptions
 <br/>
 (original problem link -: https://www.kaggle.com/rmisra/news-category-dataset/home)
